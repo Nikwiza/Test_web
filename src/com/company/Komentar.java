@@ -3,6 +3,8 @@ package com.company;
 
 import java.rmi.UnexpectedException;
 
+// Klasa koja predstavlja Komentare
+
 public class Komentar{
     private Kupac kupac;
     private Restoran restoran;

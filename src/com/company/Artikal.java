@@ -1,5 +1,7 @@
 package com.company;
 
+// Klasa koja predstavlja artikal
+
 public class Artikal {
     protected String naziv;
     protected float cena;

@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.text.SimpleDateFormat;
 
+
+// Klasa koja predstavlja porudzbine
 public class Porudzbina {
     private int uuid;
     private ArrayList<Artikal> artikli;

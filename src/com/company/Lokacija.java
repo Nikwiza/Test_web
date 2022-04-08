@@ -1,4 +1,5 @@
 package com.company;
+//Funckija koja predstavlja lokaciju
 
 public class Lokacija {
     protected double geografska_duzina;
